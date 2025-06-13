@@ -1,0 +1,30 @@
+# ========= STM32CubeIDE 生成的 IDE 配置文件 =========
+.settings/
+.project
+.cproject
+*.mxproject
+*.launch
+
+# ========= 构建生成的文件 =========
+/Debug/
+/Release/
+/build/
+
+# 输出文件（elf、bin、hex等）
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.o
+*.d
+
+# ========= Windows 系统临时文件 =========
+Thumbs.db
+Desktop.ini
+
+# ========= VS Code 配置（如果你用 VS Code）=========
+.vscode/
+
+# ========= 其他 =========
+*.log
