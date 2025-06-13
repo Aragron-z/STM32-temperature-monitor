@@ -23,3 +23,16 @@
 ├── .ioc                 // STM32CubeMX 配置文件
 ├── .project / .cproject // IDE 工程文件
 └── README.md            // 项目说明
+
+
+##🔌 硬件连接
+DS18B20温度传感器 三端分别接3.3V电源、GND、STM32G474的PB13（可以是其他端口，本工程配置PB13为GPIO_Output)
+YT240S030LCD显示屏 通过L610通信板的Arduino接口与STM32G474连接
+
+##🚀 使用说明
+1.克隆本仓库后，使用STM32cubeIDE import工程文件
+2.硬件连接好DS18B20温度传感器与LCD屏幕
+3.编译并烧录到STM32开发板
+
+##🖼 显示效果
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/3bab3572-3b81-497b-9cde-7e1843944ebf" />
