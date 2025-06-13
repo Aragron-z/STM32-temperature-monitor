@@ -25,11 +25,11 @@
 - 3.编译并烧录到STM32开发板
   
  ## 🖼 显示效果
- 如图室温为28.625℃                              <img width="493" alt="image" src="https://github.com/user-attachments/assets/a5f8daa6-672f-49a2-8930-87f6fb03240e" />
+- 如图室温为28.625℃                              <img width="493" alt="image" src="https://github.com/user-attachments/assets/a5f8daa6-672f-49a2-8930-87f6fb03240e" />
 
 
-如图手心温度为36.375℃                          <img width="390" alt="image" src="https://github.com/user-attachments/assets/3bab3572-3b81-497b-9cde-7e1843944ebf" />
+- 如图手心温度为36.375℃                          <img width="390" alt="image" src="https://github.com/user-attachments/assets/3bab3572-3b81-497b-9cde-7e1843944ebf" />
 
 
-如图两瓶冰镇饮料之间的温度为18.188℃             <img width="305" alt="image" src="https://github.com/user-attachments/assets/30379f50-7983-493f-98af-8a0c04b8f2f9" />
+- 如图两瓶冰镇饮料之间的温度为18.188℃             <img width="305" alt="image" src="https://github.com/user-attachments/assets/30379f50-7983-493f-98af-8a0c04b8f2f9" />
 
